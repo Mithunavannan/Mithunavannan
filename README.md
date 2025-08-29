@@ -60,10 +60,8 @@ A personal portfolio built with **React + TailwindCSS** showcasing my projects.
 ## 🤝 Connect With Me  
 
 - 🌐 Portfolio: [Your Website](#)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
-- 🐦 Twitter: [Your Twitter](#)  
-- 📧 Email: your.email@example.com  
-
+- 💼 LinkedIn: https://in.linkedin.com/in/mithunavannan-j-r    
+- 📧 Email: mithunavannanjayaram@gmail.com
 ---
 
 ✨ *“Code. Research. Innovate. Repeat.”*
