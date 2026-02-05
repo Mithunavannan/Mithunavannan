@@ -66,9 +66,9 @@ A personal portfolio built with **React + TailwindCSS** showcasing my projects.
 
 ## 📊 GitHub Stats  
 
-![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
+![Mithunavannan GitHub stats](https://github-readme-stats.vercel.app/api?username=mithunavannan&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithunavannan&layout=compact&theme=radical)  
 
 ---
 
