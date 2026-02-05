@@ -17,7 +17,8 @@
 
 
 📂 Featured Projects
-🚦 AI-Based Smart Traffic Signal Management System
+
+ 1. 🚦 AI-Based Smart Traffic Signal Management System
 
    An AI-powered adaptive traffic control system using real-time vehicle detection.
 
@@ -33,7 +34,7 @@
           
           👉 Smart city–ready solution for congestion reduction
 
- 🧩 Auti-Care – AI for Autism Assistance
+ 2. 🧩 Auti-Care – AI for Autism Assistance
 
 An assistive AI system designed to support individuals with Autism Spectrum Disorder.
 
@@ -45,7 +46,7 @@ An assistive AI system designed to support individuals with Autism Spectrum Diso
           
           🎯 Focused on accessibility and real-world usability
 
-🧠 Diabetic Retinopathy Detection (Vision-Language Model)
+3. 🧠 Diabetic Retinopathy Detection (Vision-Language Model)
 
 A two-model medical AI architecture using BLIP-2 for retinal image understanding.
 
