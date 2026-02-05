@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mithunavannan JR  
+# 👋 Heyy There!, I'm Mithunavannan JR  
 
 💻 **AI & Full-Stack Developer | Researcher | Open-Source Enthusiast**  
 🚀 Passionate about building intelligent systems, computer vision, and end-to-end ML pipelines.  
@@ -33,13 +33,6 @@ A **two-model architecture** using BLIP-2 for lesion captioning & retinopathy gr
 - 📊 Evaluated with **BLEU, ROUGE, METEOR, CIDEr**  
 👉 [View Project](https://github.com/username/DR-VLM)  
 
----
-
-### 🔍 Medical Image Segmentation  
-Semantic segmentation of retinal images with lesion detection.  
-- 🖼️ Built with **PyTorch + BLIP-2**  
-- 📈 Achieved 100% training accuracy on segmentation tasks  
-👉 [View Project](https://github.com/username/Segmentation-VLM)  
 
 ---
 
