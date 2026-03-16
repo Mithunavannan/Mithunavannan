@@ -60,7 +60,7 @@ A two-model medical AI architecture using BLIP-2 for retinal image understanding
 
 ### ⚡ Portfolio Website  
 A personal portfolio built with **React + TailwindCSS** showcasing my projects.  
-👉 [Live Demo]https://mithunavannan-portfolio.vercel.app/ 
+👉 [Live Demo]: https://mithunavannan-portfolio.vercel.app/ 
 
 ---
 
